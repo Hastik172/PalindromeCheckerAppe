@@ -10,7 +10,7 @@ public class PalindromeCheckerApp {
             System.out.println("Palindrome");
 
         }else{
-            System.out.println("Not palindrome");
+            System.out.println("Not a palindrome");
         }
     }
 }
